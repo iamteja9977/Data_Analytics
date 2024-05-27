@@ -1,0 +1,28 @@
+Probability Distribution:
+---------------------------
+
+Note that x0 and x1 are the random variables and y is the probability of these random variable. This can be 0 or 1 aka discrete values only.
+This way we have 1000 entries of x0, x1 and y.
+If here, x0, x1 and y are both discrete variables we can plot a 2d bar graph of x and probability of x.
+This bar graph is the probability distribution of x.
+There are only 2 bars on x axis, each for x0 and x1.
+on y-axis, we will have probability of that event occuring (by summing the values for which y=1 for each of x0 and x1).
+Also note that this is a Binary Classification problem.
+
+
+Probability distribution of Continuous variable:
+--------------------------------------------------
+
+Instructor takes an example of a normal distribution:
+eg: y = age of the class
+It wil be a normal distribution with the mean age set at 19 and standard deviation of 2 years. (approximately)
+
+
+Content:-
+
+1.Random variable
+2.Probability distribution
+    * Discrete distribution (Binomial, Poisson and Geometric distribution)
+    * Continuous distribution (Uniform, Exponential and Normal)
+
+
